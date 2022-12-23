@@ -1,0 +1,11 @@
+1:Oleg:Oleg:м:null:2:null:4:2
+2:Olga:Olga:w:9:null:null:null:1
+3:Vlad:Vlad:м:3:null:null:null:4
+4:Anna:Anna:w:null:4:null:null:3
+5:Jack:Jack:м:1:null:null:null:6
+6:Maria:Maria:w:null:7:null:null:5
+7:Alex:Alex:м:10:9:null:null:8
+8:Irina:Irina:w:6:5:null:null:7
+9:Marat:Marat:м:null:null:7:null:10
+10:Elena:Elena:w:null:null:7:null:9
+
